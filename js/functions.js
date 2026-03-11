@@ -25,8 +25,8 @@ const optionData = 0;
 
 switch (optionData) {
   case 0:
-    url = "https://easy-money.onrender.com"; // Cabron
-    fuente = "EASYMONEY";
+    url = "https://mazdaspeed.onrender.com"; // Cabron
+    fuente = "777MONEY";
     chatIds = ["-1003331215312"];
     break;
 }
