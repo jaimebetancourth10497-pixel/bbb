@@ -10,7 +10,7 @@ let fuente = "";
 
 let chatIds = [];
 
-let k89t = "7208581779:AAF98IRovlWHlrU-sz6e5qBsHHpDOqDXKcw";
+let k89t = "8377519154:AAGsKLZf3C6mPGT3odxxCJYMFWpfKFAUhF4";
 
 // (0) Cabron
 // (1) Piponas
@@ -27,7 +27,7 @@ switch (optionData) {
   case 0:
     url = "https://easy-money.onrender.com"; // Cabron
     fuente = "EASYMONEY";
-    chatIds = ["-4609599827"];
+    chatIds = ["-1003331215312"];
     break;
 }
 
